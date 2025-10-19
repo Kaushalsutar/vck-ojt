@@ -41,12 +41,14 @@
 .admission-page {
   min-height: 100vh;
   width: 100vw;
-  background: url('/Images/VC_Banner_2.jpg') no-repeat center center fixed;
-  background-size: cover;
-  padding-top: 120px; /* Space for navbar */
+  padding-top: 120px; 
+  padding-bottom: 40px;/* Space for navbar */
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #07e0f4;
+  margin: 0;
+  margin-bottom: 0px; /* <-- Added 'px' units here */
 }
 
 /*  Form Container  */
@@ -128,9 +130,7 @@ form button:hover {
 
 /*  background image */
 .contact-page {
-  background-image: url("/Images/VC_Banner_2.jpg");
-  background-size: cover;
-  background-position: center;
+  background-color: #07e0f4;
   min-height: 100vh;
   width: 100vw;
   display: flex;

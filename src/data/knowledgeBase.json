@@ -1,30 +1,90 @@
 {
   "greeting": {
-    "response": "Hello! Welcome to our Educational Organization. How can I assist you today?",
-    "examples": ["hi", "hello", "hey there", "greetings", "good morning", "good evening"]
+    "response": "Welcome to Vivekanand College, Kolhapur! How can I help you today?",
+    "examples": ["hi", "hello", "hey", "good morning", "good evening", "greetings"]
   },
-  "courses": {
-    "response": "We offer a wide range of courses including Web Development, Data Science, Digital Marketing, and UI/UX Design. Which one are you interested in?",
-    "examples": ["what courses do you offer", "list of courses", "available programs", "tell me about your education", "what can I learn", "courses available"]
-  },
-  "fees": {
-    "response": "Our course fees vary based on the program and duration. Please visit the 'Courses' section on our website or provide the course name for specific details.",
-    "examples": ["how much are the fees", "course cost", "tuition fees", "what's the price", "cost of a program", "enrollment cost"]
+  "about_vck": {
+    "response": "Vivekanand College, Kolhapur (VCK) is a prestigious institution affiliated with Shivaji University. It offers a wide range of undergraduate and postgraduate courses with a strong focus on academic excellence, innovation, and student development.",
+    "examples": ["about vivekanand college", "about vck", "vck college info", "what is vck", "vck"]
   },
   "admission": {
-    "response": "To apply for admission, please visit our 'Admissions' page, fill out the online application form, and submit the required documents. Our team will contact you shortly.",
-    "examples": ["how to apply", "admission process", "enrollment steps", "admission requirements", "how to get admitted", "apply for a course"]
+    "response": "Admissions are open for UG and PG programs. You can apply online through our official website or visit the admission office for offline assistance.",
+    "examples": [
+      "how to apply", 
+      "admission process", 
+      "how to take admission", 
+      "enrollment steps", 
+      "admission", 
+      "admision"
+    ]
+  },
+  "courses": {
+    "response": "VCK offers programs in Arts, Commerce, Science, Computer Science, IT, and more. Specialized courses include BBA, BCA, MSc, MA, and skill-based certificate programs.",
+    "examples": [
+      "courses offered", 
+      "available programs", 
+      "degree options", 
+      "subjects offered", 
+      "courses", 
+      "course", 
+      "subjects"
+    ]
+  },
+  "fees": {
+    "response": "Fee structures vary by course and category. You can find detailed information on the official college website or contact the accounts office.",
+    "examples": ["fees", "tuition cost", "how much is the fee", "fee structure", "fee"]
+  },
+  "scholarship": {
+    "response": "Scholarships are available based on merit and government criteria. Students can apply for scholarships like EBC, SC/ST/OBC, and minority scholarships through the MahaDBT portal.",
+    "examples": [
+      "scholarship", 
+      "financial aid", 
+      "any fee concession", 
+      "how to apply for scholarship", 
+      "scholarships"
+    ]
+  },
+  "placement": {
+    "response": "The college has an active Placement Cell that organizes training, internships, and job drives. Many students have secured placements in reputed companies.",
+    "examples": [
+      "placement", 
+      "job opportunities", 
+      "campus drive", 
+      "career support", 
+      "placements", 
+      "jobs"
+    ]
+  },
+  "facilities": {
+    "response": "Facilities include smart classrooms, computer labs, library, gym, auditorium, NCC/NSS, hostel, Wi-Fi, and a digital learning platform.",
+    "examples": ["campus facilities", "do you have wifi", "library", "sports", "hostel", "facilities"]
   },
   "contact": {
-    "response": "You can reach us by phone at +91 12345 67890, or email us at info@example.edu. You can also visit our office during working hours.",
-    "examples": ["contact details", "phone number", "email address", "where are you located", "get in touch", "how to reach you"]
+    "response": "You can reach us at +91 231 2658989 or email vckolhapur@gmail.com. Office hours: Mon–Sat, 10 AM–5 PM. Location: Tarabai Park, Kolhapur.",
+    "examples": ["contact", "phone number", "email", "how to contact", "address"]
+  },
+  "results": {
+    "response": "Results are published on the official website and notice board. Students can check their result using their seat number or PRN.",
+    "examples": ["exam result", "when are results out", "check result", "marksheet", "results", "result"]
+  },
+  "calendar": {
+    "response": "The academic calendar includes term dates, exams, holidays, and events. You can download it from the college website under the 'Academics' section.",
+    "examples": ["academic calendar", "important dates", "term start", "exam schedule", "calendar"]
+  },
+  "campus_life": {
+    "response": "VCK has a vibrant campus life with cultural events, sports, student clubs, and community activities to support holistic development.",
+    "examples": ["student life", "campus experience", "clubs", "events", "activities", "campus"]
   },
   "thanks": {
-    "response": "You're welcome! Is there anything else I can help you with?",
-    "examples": ["thank you", "thanks", "appreciate it", "cheers"]
+    "response": "You're most welcome! Feel free to ask anything else.",
+    "examples": ["thanks", "thank you", "appreciate it", "grateful"]
+  },
+  "goodbye": {
+    "response": "Thank you for contacting VCK. Have a great day!",
+    "examples": ["bye", "see you", "goodbye", "later"]
   },
   "default": {
-    "response": "I'm sorry, I didn't understand that. Could you please rephrase your question or ask something else?",
+    "response": "I'm sorry, I didn't understand your query. Please rephrase or ask about admissions, courses, scholarships, or other college-related topics.",
     "examples": []
   }
 }
