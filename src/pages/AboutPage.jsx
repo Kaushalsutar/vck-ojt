@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../components/Header/Header';
-import './AboutPage.css'; // Import CSS here
+import './Aboutpage.css'; // Import CSS here
 
 const AboutPage = () => {
   return (
